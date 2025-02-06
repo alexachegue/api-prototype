@@ -1,3 +1,4 @@
+- API used: https://picsum.photos/
 - Run the main method. 
 - On Postman: 
 - Generate random image 
